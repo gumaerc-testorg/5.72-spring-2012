@@ -6,6 +6,7 @@ file: /courses/5-72-statistical-mechanics-spring-2012/05d10d2e5952f3b91b10ba1305
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Stochastic Processes and Brownian Motion
 uid: 05d10d2e-5952-f3b9-1b10-ba1305b46500
 ---
 This resource contains information regarding stochastic processes and brownian motion.
-

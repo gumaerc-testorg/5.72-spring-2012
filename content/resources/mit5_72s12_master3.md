@@ -6,6 +6,7 @@ file: /courses/5-72-statistical-mechanics-spring-2012/9654ed29627f2506ecf7f4b266
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Hydrodynamics and Light Scattering
 uid: 9654ed29-627f-2506-ecf7-f4b266501eff
 ---
 This resource contains information regarding hydrodynamics and light scattering.
-
